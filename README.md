@@ -6,11 +6,11 @@ Currently a proof on concept.
 
 ### GIF (input)
 
-<img src="https://raw.githubusercontent.com/selfup/gif_to_spritesheet/main/player.gif" width="64" height="64">
+<img src="https://raw.githubusercontent.com/selfup/gif_to_spritesheet/main/player.gif" width="32" height="32">
 
 ### Spritesheet (output)
 
-<img src="https://raw.githubusercontent.com/selfup/gif_to_spritesheet/main/player.png" width="64" height="320">
+<img src="https://raw.githubusercontent.com/selfup/gif_to_spritesheet/main/player.png" width="32" height="160">
 
 ### Busybox time
 
