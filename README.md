@@ -1,7 +1,7 @@
-# GIF to Spritesheet
+# GIF to Spritesheet (g2s)
 
-Currently a proof on concept. Will become a library soon.
+Convert a GIF to a spritesheet.
+
+Currently a proof on concept.
 
 Look at the `player.gif`, then compare to `player.png`.
-
-Main purpose is for Bevy. Convert GIF to spritesheet.
