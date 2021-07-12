@@ -4,7 +4,13 @@ Convert a GIF to a spritesheet.
 
 Currently a proof on concept.
 
-Look at the `player.gif`, then compare to `player.png`.
+### GIF (input)
+
+![gif](https://raw.githubusercontent.com/selfup/gif_to_spritesheet/main/player.gif)(:height="512px" width="512px")
+
+### Spritesheet (output)
+
+![png](https://raw.githubusercontent.com/selfup/gif_to_spritesheet/main/player.png)(:height="512px" width="512px")
 
 ### Busybox time
 
