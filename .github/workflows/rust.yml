@@ -16,9 +16,9 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Build
-      run: cargo build --release
     - name: Run tests
       run: cargo test
-    - name: Bin check
+    - name: Run Build
+      run: cargo build --release
+    - name: Run bin check
       run: ls -lagh target/release/g2s*
