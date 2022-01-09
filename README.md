@@ -19,7 +19,7 @@ Windows using git-bash:
 ```bash
 $ time target/release/g2s.exe
 
-real    0m0.019s
+real    0m0.024s
 user    0m0.000s
 sys     0m0.000s
 ```
