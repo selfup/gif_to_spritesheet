@@ -16,9 +16,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Run tests
-      run: cargo test
-    - name: Run Build
-      run: cargo build --release
-    - name: Run bin check
-      run: ls -lagh target/release/g2s*
+    - uses: Swatinem/rust-cache@v1.3.0
+    - name: Build
+      run: cargo build --verbose
+    - name: Test
+      run: cargo test --verbose
